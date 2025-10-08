@@ -1,0 +1,35 @@
+# Maven
+/book-catalog/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Eclipse/IntelliJ/VSCode
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Build
+*.class
+
+# Sonar
+/.scannerwork/
+
+# Test output
+/test-output/
+
+# Dependency directories
+/node_modules/
+
+# Environment
+.env
