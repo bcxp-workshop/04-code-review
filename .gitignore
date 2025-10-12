@@ -1,16 +1,21 @@
 # Maven
-/book-catalog/target/
+/target/
+**/target/
 !.mvn/wrapper/maven-wrapper.jar
 
 # Eclipse/IntelliJ/VSCode
 .classpath
 .project
 .settings/
+bin/
 .idea/
 *.iml
 *.ipr
 *.iws
 .vscode/
+
+# single IDEA-Subdirectories
+out/
 
 # OS
 .DS_Store
@@ -33,3 +38,21 @@ Thumbs.db
 
 # Environment
 .env
+
+# Test reports
+**/surefire-reports/
+**/test-classes/
+**/jacoco.exec
+
+# Logfiles
+*.log
+
+# Weitere Build-Artefakte
+*.jar
+*.war
+*.ear
+
+# Sonstiges
+*.swp
+*.bak
+*.tmp
