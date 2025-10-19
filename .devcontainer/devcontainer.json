@@ -1,0 +1,12 @@
+{
+  "name": "REVIEW-durch-copilot-devcontainer",
+  "image": "mcr.microsoft.com/devcontainers/java:21",
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "java.server.launchMode": "Standard",
+        "redhat.telemetry.enabled": false
+      }
+    }
+  }
+}
