@@ -41,7 +41,6 @@ Github Codespace kann wie im Screenshot gezeigt geöffnet werden: ![codespace](d
 - **Bitte immer um Beispielcode für Verbesserungen.**
 - **Nutze GitHub Copilot auch für Namensvorschläge und Dokumentation.**
 - **Frage nach Risiken bei Security, Wartbarkeit und Performance.**
-- **Arbeite schrittweise und schaue jeweils, wie die LLMs den Kontext verstehen und darauf aufbauen.**
 
 #### Hilfestellung 
 Experimentiere gerne frei mit Prompts, um den Code besser zu verstehen und zu verbessern. Alternativ kannst du die Vorschläge und Prompts in [Hilfestellung](docs/hilfestellung.md) nutzen
