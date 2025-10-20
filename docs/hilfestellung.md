@@ -1,22 +1,5 @@
 
-# 💡 Hilfestellungen für den Workshop
-
-## **Allgemeine Tipps & Tricks**
-
-- **Fange klein an:** Probiere die LLMs zuerst an einzelnen Methoden oder kleinen Klassen.
-- **Stelle präzise Fragen:** Je konkreter und kontextbezogener die Anfrage, desto hilfreicher die Antwort.
-- **Kontext geben:** Nenne Zweck/Aufgabenbereich der Klasse/Methode
-- **Verbesserungen anfordern:** Bitte um Empfehlungen oder Alternativen
-- **Frage nach Listen und Begründungen:** "`Liste alle Schwächen und erkläre, warum sie ein Problem sind.`"
-- **Bitte immer um Beispielcode für Verbesserungen.**
-- **Experimentiere mit verschiedenen Prompt-Formulierungen:** Z.B. "`Vergleiche Alt- und Neu-Version nebeneinander.`"
-- **Nutze die LLMs auch für Namensvorschläge und Dokumentation.**
-- **Frage nach Risiken bei Security, Wartbarkeit und Performance.**
-- **Arbeite schrittweise und schaue jeweils, wie die LLMs den Kontext verstehen und darauf aufbauen.**
-
----
-
-## Konkrete Prompts
+# 💡 Hilfestellung für den Workshop
 
 ### **Schritt 1: Einstieg & Verständnis einzelner Files**
 

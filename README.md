@@ -23,16 +23,28 @@ Das Projekt simuliert eine in die Jahre gekommene Backend-Anwendung zur Verwaltu
 ---
 
 ## Ziel des Workshops
-- Identifiziere "Code Smells" und Altlasten im Projekt mithilfe von ChatGPT und Github Copilot 
-- Führe gezielte Verbesserungen mithilfe der LLMs durch
+- Identifiziere "Code Smells" und Altlasten im Projekt mithilfe Github Copilot 
+- Führe gezielte Verbesserungen mithilfe von GitHub Copilot durch
 
-### Tipps und Tricks
+## Tipps und Tricks
 
 #### Codespace öffnen
-Github Codespace kann wie im Screenshot gezeigt geöffnet werden: ![codespace](docs/ScreenshotCodespace.png)
-Für jeden Nutzer ist schon ein Codespace für das Projekt vorbereitet.  
+Github Codespace kann wie im Screenshot gezeigt geöffnet werden: ![codespace](docs/CodespaceReview.png)
 
-#### Prompts 
-Ihr dürft entscheiden ob ihr ganz frei ohne Vorlagen mit den LLMs experimentieren wollt, oder ob ihr die Hilfestellungen in [TIPPS](docs/tipps.md) verwendet.
+#### Hinweise
 
+- **Fange klein an:** Probiere GitHub Copilot zuerst an einzelnen Methoden oder kleinen Klassen.
+- **Stelle präzise Fragen:** Je konkreter und kontextbezogener die Anfrage, desto hilfreicher die Antwort.
+- **Kontext geben:** Nenne Zweck/Aufgabenbereich der Klasse/Methode
+- **Verbesserungen anfordern:** Bitte um Empfehlungen oder Alternativen
+- **Frage nach Listen und Begründungen:** "`Liste alle Schwächen und erkläre, warum sie ein Problem sind.`"
+- **Bitte immer um Beispielcode für Verbesserungen.**
+- **Nutze GitHub Copilot auch für Namensvorschläge und Dokumentation.**
+- **Frage nach Risiken bei Security, Wartbarkeit und Performance.**
+- **Arbeite schrittweise und schaue jeweils, wie die LLMs den Kontext verstehen und darauf aufbauen.**
+
+#### Hilfestellung 
+Experimentiere gerne frei mit Prompts, um den Code besser zu verstehen und zu verbessern. Alternativ kannst du die Vorschläge und Prompts in [Hilfestellung](docs/hilfestellung.md) nutzen
+
+---
 **Viel Erfolg beim Reviewen!**
